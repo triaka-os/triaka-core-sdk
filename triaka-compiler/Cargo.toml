@@ -1,6 +1,6 @@
 [package]
 name = "triaka-compiler"
-authors = ["sisungo <sisungo@proton.me>"]
+authors = ["sisungo <sisungo@icloud.com>"]
 version = "0.1.0"
 license = "Unlicense"
 publish = false
